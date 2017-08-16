@@ -2,6 +2,7 @@
 ## Dependencies
 
 * [Docker](http://docker.io)
+Test feature comment
 
 ## Usage
 
